@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Convert Suhu</string>
+    <string name="hitung">Hitung</string>
+    <string name="inputSuhu">Masukkan Suhu °C</string>
+    <string name="intro">Silahkan Masukkan Suhu Dalam Satuan °C</string>
+    <string name="kelvinCNV">Kelvin = %1$.2f</string>
+    <string name="rearmurCNV">Rearmur = %1$.2f</string>
+    <string name="farenheitCNV">Farenheit = %1$.2f</string>
+    <string name="Celcius_Invalid">Masukkan Suhu.</string>
+</resources>
